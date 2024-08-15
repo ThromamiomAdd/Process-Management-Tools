@@ -22,7 +22,7 @@
 
 进入主界面后，点击“Start Process”即弹出一个输入框，请在输入框中输入正确的exe文件路径，例如：D:\360MoveData\Users\Administrator\Desktop\PCL2.exe
 
-注意：必须是完整的路径（精确到exe文件）
+注意：必须是exe文件的绝对路径，否则程序将不会被启动
 
 # 开发人员
 
