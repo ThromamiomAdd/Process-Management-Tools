@@ -17,10 +17,13 @@
 
 特别提示：不要试图结束红色的进程，那是系统进程！！！
 
-二、如何启动进程（注意，需以管理员身份运行）？
+二、如何启动进程？
 打开exe文件，跳过提示，即可来到主程序
 
 进入主界面后，点击“Start Process”即弹出一个输入框，请在输入框中输入正确的exe文件路径，例如：D:\360MoveData\Users\Administrator\Desktop\PCL2.exe
+
+注意：必须是完整的路径（精确到exe文件）
+
 # 开发人员
 
 ThromamiomAdd（开发者、策划者、测试者、owner）
